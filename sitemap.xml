@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://wind-wu/article/</loc>
+    <loc>http://krosawar.github.io/article/</loc>
     <lastmod>2023-04-09T16:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://wind-wu/recommend/</loc>
+    <loc>http://krosawar.github.io/recommend/</loc>
     <lastmod>2023-04-09T16:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://wind-wu/article/test/</loc>
+    <loc>http://krosawar.github.io/article/test/</loc>
     <lastmod>2023-04-09T16:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://wind-wu/recommend/test-copy-2/</loc>
+    <loc>http://krosawar.github.io/recommend/test-copy-2/</loc>
     <lastmod>2023-04-09T16:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://wind-wu/</loc>
+    <loc>http://krosawar.github.io/</loc>
     <lastmod>2023-04-09T16:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://wind-wu/categories/</loc>
+    <loc>http://krosawar.github.io/categories/</loc>
   </url><url>
-    <loc>http://wind-wu/tags/</loc>
+    <loc>http://krosawar.github.io/tags/</loc>
   </url>
 </urlset>
