@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommends on Wind Wu</title>
-    <link>https://krosawar.github.io/Wind-Wu/recommend/</link>
+    <link>https://krosawar.github.io/recommend/</link>
     <description>Recent content in Recommends on Wind Wu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Apr 2023 16:57:20 +0800</lastBuildDate><atom:link href="https://krosawar.github.io/Wind-Wu/recommend/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2023 16:57:20 +0800</lastBuildDate><atom:link href="https://krosawar.github.io/recommend/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is a test Article</title>
-      <link>https://krosawar.github.io/Wind-Wu/recommend/test-copy-2/</link>
+      <link>https://krosawar.github.io/recommend/test-copy-2/</link>
       <pubDate>Sun, 09 Apr 2023 16:57:20 +0800</pubDate>
       
-      <guid>https://krosawar.github.io/Wind-Wu/recommend/test-copy-2/</guid>
+      <guid>https://krosawar.github.io/recommend/test-copy-2/</guid>
       <description>This markdown file save the line I find may be useful.    #or simply youtube+id
   TesAbout = &amp;ldquo;Some text&amp;rdquo;
 . . . .--- 1 .-- 1 / 1 / \ | | .---+ .-+ + / \ .---+---. .--+--. | &#39;--- 2 | &#39;-- 2 / \ 2 + + | | | | ---+ ---+ + / \ / \ .-+-. .-+-. .+. .</description>
@@ -19,10 +19,10 @@
     
     <item>
       <title>This is a test Article</title>
-      <link>https://krosawar.github.io/Wind-Wu/recommend/test-copy-4/</link>
+      <link>https://krosawar.github.io/recommend/test-copy-4/</link>
       <pubDate>Sun, 09 Apr 2023 16:57:20 +0800</pubDate>
       
-      <guid>https://krosawar.github.io/Wind-Wu/recommend/test-copy-4/</guid>
+      <guid>https://krosawar.github.io/recommend/test-copy-4/</guid>
       <description>This markdown file save the line I find may be useful.    #or simply youtube+id
   TesAbout = &amp;ldquo;Some text&amp;rdquo;
 . . . .--- 1 .-- 1 / 1 / \ | | .---+ .-+ + / \ .---+---. .--+--. | &#39;--- 2 | &#39;-- 2 / \ 2 + + | | | | ---+ ---+ + / \ / \ .-+-. .-+-. .+. .</description>
@@ -30,10 +30,10 @@
     
     <item>
       <title>This is a Test Blog</title>
-      <link>https://krosawar.github.io/Wind-Wu/recommend/test/</link>
+      <link>https://krosawar.github.io/recommend/test/</link>
       <pubDate>Sun, 09 Apr 2023 16:57:20 +0800</pubDate>
       
-      <guid>https://krosawar.github.io/Wind-Wu/recommend/test/</guid>
+      <guid>https://krosawar.github.io/recommend/test/</guid>
       <description>It is a small step for a man
 but a milestone of our whole spicies</description>
     </item>
